@@ -5,8 +5,7 @@
 
 - Python3
 - Golang
-- C (re-learning rn)
-- html/css/js (don't really like web design but I can do it)
+- CSharp
 
 ## Pentesting
 
