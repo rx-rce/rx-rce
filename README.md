@@ -5,7 +5,9 @@
 
 - Python3
 - Golang
-- CSharp
+- C
+- Reactjs
+- Javascript
 
 ## Pentesting
 
@@ -31,3 +33,4 @@ _Anything I make or do is fully for ethical use, I don't condone anything like d
  - CompTIA A+
  - CompTIA Net+
  - CompTIA Sec+
+ - CompTIA Linux+
